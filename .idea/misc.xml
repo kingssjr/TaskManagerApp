@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.12 virtualenv at D:\a_IOS_Labs\projeto\TaskManagerApp-master\venv" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 virtualenv at D:\a_IOS_Labs\projeto\TaskManagerApp-master\venv" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="Python 3.11" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11" project-jdk-type="Python SDK" />
+>>>>>>> 74f95b05c2bd3b0c205a05f732c1d2d9e9361548
 </project>
